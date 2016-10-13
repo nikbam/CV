@@ -46,7 +46,7 @@ Through years of studying I have acquired the following skills:
   <tr align="center">
     <td> PHP </td>
     <td> Javascript </td>
-    <td>  </td>
+    <td> Android SDK </td>
     <td>  </td>
     <td>  </td>
     <td> RESTful APIs </td>

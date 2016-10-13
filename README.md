@@ -110,3 +110,14 @@ Through years of studying I have acquired the following skills:
 ### LINKS
 
 [Github](https://github.com/nikbam) | [E-mail](mailto:nikbam@hotmail.com) | [Codewars](https://www.codewars.com/users/paidaki)
+
+---
+
+### INTERESTS
+
+* Learning new technologies
+* Cryptography
+* Penetration Testing
+* Cycling
+* Basketball
+* Traveling

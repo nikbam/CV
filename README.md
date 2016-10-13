@@ -65,14 +65,14 @@ Through years of studying I have acquired the following skills:
 
 ### PROJECTS
 
-* [PERT Charts](https://github.com/nikbam/PertCharts)
-* [JCaliper](https://github.com/nikbam/JCaliper)
-* [PoGoFinder](https://github.com/nikbam/PoGoFinder)
-* [Port Simulation](https://github.com/nikbam/PortSimulation)
-* [Find the Hidden Words](https://github.com/nikbam/FindHiddenWords)
-* [PixWords Helper](https://github.com/nikbam/PixWordsHelper) - [Demo](https://nikbam.github.io/PixWordsHelper)
-* [Port Queue Simulation](https://github.com/nikbam/PortSimulation)
-* [Sudoku Generator](https://github.com/nikbam/SudokuGenerator) - Incomplete (in development)
+* [PERT Charts](https://github.com/nikbam/PertCharts) - Statistical tool for Project Management
+* [JCaliper](https://github.com/nikbam/JCaliper) - Object Oriented Design Evaluation Tool
+* [PoGoFinder](https://github.com/nikbam/PoGoFinder) - Pokemon Go Scanner
+* [Scrambled Word Finder](https://github.com/nikbam/ScrambledWord) - Word Descrambler
+* [Find the Hidden Words](https://github.com/nikbam/FindHiddenWords) - Words Finder
+* [PixWords Helper](https://github.com/nikbam/PixWordsHelper) - [Demo](https://nikbam.github.io/PixWordsHelper) - PixWords Assistance Tool
+* [Port Queue Simulation](https://github.com/nikbam/PortSimulation) - Port Simulation
+* [Sudoku Generator](https://github.com/nikbam/SudokuGenerator) - Generate Sudokus with Unique Solutions (Incomplete - In development)
 
 ---
 

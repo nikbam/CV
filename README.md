@@ -83,7 +83,7 @@ Through years of studying I have acquired the following skills:
 ##### Web Developer (Jul 2013 - Sept 2013)
 
 * Inventory count and register
-* Creation of eCommerce website using Joomla CMS
+* Creation of E-Commerce website using Joomla CMS
 * Database management
 * Website administration and maintenance
 
@@ -95,7 +95,7 @@ Through years of studying I have acquired the following skills:
 
 * Parallel project
 * Inventory count and register
-* Creation of eCommerce website using Joomla CMS
+* Creation of E-Commerce website using Joomla CMS
 * Database management
 * Website administration and maintenance
 

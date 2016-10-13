@@ -40,7 +40,7 @@ Through years of studying I have acquired the following skills:
     <td> CSS3 </td>
     <td> Bootstrap </td>
     <td>  </td>
-    <td>  </td>
+    <td> Android </td>
     <td> Design Patterns </td>
   </tr>
   <tr align="center">

@@ -33,7 +33,7 @@ Through years of studying I have acquired the following skills:
     <td> AngularJS </td>
     <td> MongoDB </td>
     <td> Linux </td>
-    <td> Office Suite </td>
+    <td> x86 Assembly </td>
   </tr>
   <tr align="center">
     <td> HTML5 </td>
